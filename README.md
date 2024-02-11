@@ -1,6 +1,6 @@
 # это просто текст внутри файла README.md
 добавляем еще несколько строк кода
- 
+test 
 public class Main {
 
 public static void totalResult(int result) {
